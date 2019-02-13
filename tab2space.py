@@ -5,7 +5,7 @@ tab2space
 from argparse import ArgumentParser
 from shutil import copy2
 
-dec convert(ARGS):
+def convert(ARGS):
     """
     """
 
